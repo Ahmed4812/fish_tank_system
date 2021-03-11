@@ -35,6 +35,7 @@ time the motor will stop is when the servo (feeding window) is opened for the sa
 ## Software:
 1. [MPLAB_X](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide)
 1. C programming langauge
+1. EasyEDA
 
 ## The circuit:
 ![alt text](https://github.com/Ahmed4812/fish_tank_system/blob/3c86a7a3577f006b3e0d31d76f7fee07d25d87e1/fishTank_circuit.JPG)
