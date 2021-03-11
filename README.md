@@ -14,7 +14,7 @@ Thus, our system will need to be able to:
 * Only allow the owner to feed the fish
 * Have adjustable strength for the water filtration system
 
-  The system will have a timer that is set for 24 hours (demo 30seconds). This timer will run and
+ The system will have a timer that is set for 24 hours (demo 30seconds). This timer will run and
 once the timer finishes 1 complete cycle the LCD will say “feed time”, however any other time during
 that cycle it will say “Not feed time”. Once it is “feed time” then the system will wait for an input of the
 passcode. The user will then input a two-digit code, and if the code matches the password that’s saved
