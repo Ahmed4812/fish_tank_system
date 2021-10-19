@@ -1,1 +1,1 @@
-*.mk linguist-vendored=false
+*.mk linguist-detectable=false
